@@ -1,24 +1,44 @@
 # LAB-4-Hospital-Management
+NAME : SWATHI S
+
+REGISTER NUMBER : 212223040220
+
 ### AIM:
 To develop the Hospital management System using Star UML tool.
+
 ### PROBLEM STATEMENT:
 It is very imporatant to maintain efficient software to handle information of a hospital.
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
-## Usecase Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/46eae1cd-9591-405e-8a0e-c9df59782282)
-## Sequence Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/eea13653-110d-43a3-9f39-bda0e7c0db41)
-## Statechart Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/9f1680e9-7e07-4654-8e22-84a0980b7672)
-## Class Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/b7a8869f-13a5-41f0-8eb0-2575af96fc69)
-## Activity Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/921042da-2023-4388-beea-150d4d5de45a)
-## Communication Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/d01ed0aa-279d-4456-9a94-050f5a6f10d5)
-## Package Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/6ad8b234-e206-45a7-920c-762446d933af)
+
+#### USECASE DIAGRAM :
+
+![HOSPITAL USECASE](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/21501bb2-aaa1-49be-8180-304d0dbe6b67)
+
+#### CLASS DIAGRAM :
+
+![HOSPITAL CLASS](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/a4cf80cc-4dcb-401a-876f-5831b8e921d4)
+
+#### SEQUENCE DIAGRAM :
+
+![HOSPITAL SEQUENCE](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/87e7e8cc-0423-490c-9783-c4d7428ab713)
+
+#### COMMUNICATION DIAGRAM :
+
+![HOSPITAL COMMUNICATION](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/13295fce-fc6f-44a0-9cb0-c59e2be2c0ab)
+
+#### STATECHART DIAGRAM :
+
+![HOSPITAL STATE CHART](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/dedbc4ce-69e6-4104-8c0f-ee8dc123254c)
+
+#### ACTIVITY DIAGRAM :
+
+![HOSPITAL ACTIVITY](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/316e38da-953b-4236-94f0-7215cce3186d)
+
+#### PACKAGE DIAGRAM :
+
+![HOSPITAL PACKAGE](https://github.com/23005529/LAB-4-Hospital-Management/assets/139842207/b795db96-c75b-46b9-90c1-29af084d86fd)
+
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
